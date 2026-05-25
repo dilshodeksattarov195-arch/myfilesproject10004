@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdync",
+        "uuid": 6304,
+        "checksum": "rsppn4"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
